@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1-1-Calculadora</string>
+    <string name="error_sumar">Introduce los dos operandos</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="operando_1">Operando 1:</string>
+    <string name="introduce_operando">Introduce operando</string>
+    <string name="operando_2">Operando 2:</string>
+    <string name="introduzca_operando">Introduzca operando</string>
+    <string name="sumar">Sumar</string>
+</resources>
